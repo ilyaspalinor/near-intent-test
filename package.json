@@ -9,10 +9,15 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@aurora-is-near/intents-swap-widget": "^7.3.3",
+    "@aurora-is-near/intents-swap-widget-standalone": "^7.3.3",
+    "@tanstack/query-core": "^5.100.11",
+    "@wagmi/core": "^3.4.12",
+    "accounts": "^0.14.1",
     "next": "15.5.18",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "viem": "^2.50.4",
+    "wagmi": "^3.6.15"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",

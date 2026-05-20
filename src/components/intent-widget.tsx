@@ -3,7 +3,7 @@
 import {
   WidgetConfigProvider,
   Widget,
-} from '@aurora-is-near/intents-swap-widget';
+} from '@aurora-is-near/intents-swap-widget-standalone';
 
 export  function IntentWidget() {
   return (
