@@ -8,7 +8,7 @@ import {
 export  function IntentWidget() {
   return (
     <WidgetConfigProvider config={{ }}>
-      <Widget />
+      <Widget defaultMode="swap" />
     </WidgetConfigProvider>
   );
 }

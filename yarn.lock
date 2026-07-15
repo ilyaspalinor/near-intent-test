@@ -97,38 +97,38 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@aurora-is-near/intents-swap-widget-evm@npm:^7.3.3":
-  version: 7.3.3
-  resolution: "@aurora-is-near/intents-swap-widget-evm@npm:7.3.3"
+"@aurora-is-near/intents-swap-widget-evm@npm:^7.14.0":
+  version: 7.14.0
+  resolution: "@aurora-is-near/intents-swap-widget-evm@npm:7.14.0"
   dependencies:
     ethers: "npm:^6.15.0"
     viem: "npm:^2.38.3"
   peerDependencies:
-    "@aurora-is-near/intents-swap-widget": ^7.3.3
-  checksum: 10c0/5a9a0aa5fc5a20b286f6bbbfb19d15c658917cf9c2cdc84cc8254d6ea86b5e591c3587754e758366ada13c29dfb1816b1d28a81672e7995d5a655f8d9a4ddb34
+    "@aurora-is-near/intents-swap-widget": ^7.14.0
+  checksum: 10c0/7519308f67616890ecaeb803e119ebe4680b0401e1c7aae011f3aa084b151be773287c61ff17de4e67ff8da861be3f7c130a52c44c1f2eb05138d7a22c05d240
   languageName: node
   linkType: hard
 
-"@aurora-is-near/intents-swap-widget-solana@npm:^7.3.3":
-  version: 7.3.3
-  resolution: "@aurora-is-near/intents-swap-widget-solana@npm:7.3.3"
+"@aurora-is-near/intents-swap-widget-solana@npm:^7.14.0":
+  version: 7.14.0
+  resolution: "@aurora-is-near/intents-swap-widget-solana@npm:7.14.0"
   dependencies:
     "@solana/spl-token": "npm:^0.4.14"
     "@solana/web3.js": "npm:^1.98.4"
   peerDependencies:
-    "@aurora-is-near/intents-swap-widget": ^7.3.3
-  checksum: 10c0/7a69dea355953f3a5f24867f184be34d1050beb99d555f0ea7793476071faaa82bda0800061e2824ed2a624c827bb30e8181862a88e7e6965462025348976b08
+    "@aurora-is-near/intents-swap-widget": ^7.14.0
+  checksum: 10c0/796adccbfaf1db4d6b032824fefd317af90bf2a3640719e5ff1fba609662deb6cc28f9b9d52948973d45dc3f012e72c2fc251bfb6924e57c04aaf73c3535a444
   languageName: node
   linkType: hard
 
-"@aurora-is-near/intents-swap-widget-standalone@npm:^7.3.3":
-  version: 7.3.3
-  resolution: "@aurora-is-near/intents-swap-widget-standalone@npm:7.3.3"
+"@aurora-is-near/intents-swap-widget-standalone@npm:7.14.0":
+  version: 7.14.0
+  resolution: "@aurora-is-near/intents-swap-widget-standalone@npm:7.14.0"
   dependencies:
-    "@aurora-is-near/intents-swap-widget": "npm:^7.3.3"
-    "@aurora-is-near/intents-swap-widget-evm": "npm:^7.3.3"
-    "@aurora-is-near/intents-swap-widget-solana": "npm:^7.3.3"
-    "@aurora-is-near/intents-swap-widget-stellar": "npm:^7.3.3"
+    "@aurora-is-near/intents-swap-widget": "npm:^7.14.0"
+    "@aurora-is-near/intents-swap-widget-evm": "npm:^7.14.0"
+    "@aurora-is-near/intents-swap-widget-solana": "npm:^7.14.0"
+    "@aurora-is-near/intents-swap-widget-stellar": "npm:^7.14.0"
     "@creit.tech/stellar-wallets-kit": "npm:^2.1.0"
     "@headlessui/react": "npm:^2.2.4"
     "@hot-labs/near-connect": "npm:^0.6.8"
@@ -140,25 +140,25 @@ __metadata:
   peerDependencies:
     react: ">=18.2.0"
     react-dom: ">=18.2.0"
-  checksum: 10c0/2c2a13ac023535664944cc85fecc850eb00d5486e71da5c5f9f589c1dc5e88347a50a095d53b2703e5ef5aff5b2ed3ff58a431154a38df5b407d6971cb4ade7a
+  checksum: 10c0/03f1fee194e96e9ab87477ae0a0a872d7c9c29a20d74c9203ccebf06710e9c400a9a0ccc9997cd9c11c137af4774df25e7b2be64aea47f2eb35bf1322e887e77
   languageName: node
   linkType: hard
 
-"@aurora-is-near/intents-swap-widget-stellar@npm:^7.3.3":
-  version: 7.3.3
-  resolution: "@aurora-is-near/intents-swap-widget-stellar@npm:7.3.3"
+"@aurora-is-near/intents-swap-widget-stellar@npm:^7.14.0":
+  version: 7.14.0
+  resolution: "@aurora-is-near/intents-swap-widget-stellar@npm:7.14.0"
   dependencies:
     "@stellar/stellar-sdk": "npm:^14.6.1"
     axios: "npm:^1.10.0"
   peerDependencies:
-    "@aurora-is-near/intents-swap-widget": ^7.3.3
-  checksum: 10c0/e5401cc7e97b282843e14d1b8c294154ec91e2dc49067530cc7288fc8b50ec411da64a5c7076a25caa761eb865fe09892f8d796eb0d687156016d4a11ab047a7
+    "@aurora-is-near/intents-swap-widget": ^7.14.0
+  checksum: 10c0/7cdf8b4e882e15f96544ddae4dbc97d6c60f40b5dc1c118926dc05df89222b93f53e6f4794cc5aa3c7ccc1aa4d9e46bd2a78a8fa0c8fc442def1ba52e970bd44
   languageName: node
   linkType: hard
 
-"@aurora-is-near/intents-swap-widget@npm:^7.3.3":
-  version: 7.3.3
-  resolution: "@aurora-is-near/intents-swap-widget@npm:7.3.3"
+"@aurora-is-near/intents-swap-widget@npm:^7.14.0":
+  version: 7.14.0
+  resolution: "@aurora-is-near/intents-swap-widget@npm:7.14.0"
   dependencies:
     "@defuse-protocol/intents-sdk": "npm:^0.43.3"
     "@defuse-protocol/internal-utils": "npm:^0.13.0"
@@ -170,6 +170,7 @@ __metadata:
     "@tanstack/react-query": "npm:^5.85.5"
     "@ton/core": "npm:^0.62.0"
     axios: "npm:^1.10.0"
+    border-beam: "npm:^1.3.0"
     bs58: "npm:^6.0.0"
     change-case: "npm:^5.4.4"
     chroma-js: "npm:^3.1.2"
@@ -196,7 +197,7 @@ __metadata:
   peerDependencies:
     react: ">=18.2.0"
     react-dom: ">=18.2.0"
-  checksum: 10c0/4624cf0c150f6a73ca58ac7d84e4bd0b70788cb7e41f6e344f1fe385b3cde0c68e5ca8b98a9ef2295aa6f72d5b636d321487bc2c1b35dfcd2c1268b17315a34b
+  checksum: 10c0/60d2f71c2ce5d0a6ef5354e9f5caf1eccf8524b953eb6b462e4fb371231725d23a0b93b68758d6ba821bb65a666293893e2ad8fdc0c5b10d09c598ed69a4f34d
   languageName: node
   linkType: hard
 
@@ -9599,6 +9600,16 @@ __metadata:
   languageName: node
   linkType: hard
 
+"border-beam@npm:^1.3.0":
+  version: 1.3.0
+  resolution: "border-beam@npm:1.3.0"
+  peerDependencies:
+    react: ">=18.0.0"
+    react-dom: ">=18.0.0"
+  checksum: 10c0/4c252d7ced08f989e42f3ca614d23632223149a48bc8f479656b74d275c766cfa1bf3c270480dd34a7a873f1adc4d6a5a0dea67fe274edff0c612f515b06e99b
+  languageName: node
+  linkType: hard
+
 "borsh@npm:0.7.0, borsh@npm:^0.7.0":
   version: 0.7.0
   resolution: "borsh@npm:0.7.0"
@@ -13437,7 +13448,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "near-intent-test@workspace:."
   dependencies:
-    "@aurora-is-near/intents-swap-widget-standalone": "npm:^7.3.3"
+    "@aurora-is-near/intents-swap-widget-standalone": "npm:7.14.0"
     "@eslint/eslintrc": "npm:^3"
     "@tailwindcss/postcss": "npm:^4"
     "@tanstack/query-core": "npm:^5.100.11"
