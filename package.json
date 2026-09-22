@@ -9,7 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@aurora-is-near/intents-swap-widget-standalone": "7.20.1",
+    "@aurora-is-near/intents-swap-widget-standalone": "^7.24.0",
     "@tanstack/query-core": "^5.100.11",
     "@wagmi/core": "^3.4.12",
     "accounts": "^0.14.1",
